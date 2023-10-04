@@ -1,0 +1,277 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Rubik";
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background: #E5E5E5;
+}
+
+nav{
+    width: 100vw;
+    height: 108px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-logo{
+    width: 153.99px;
+    height: 38px;
+    margin: 35px 0 35px 72px;
+    display: inline-flex;
+    align-items: center;
+}
+
+.nav-logo img{
+    width: 33.99px;
+    height: 33.99px;
+    color: #000000;
+    margin: 2px;
+}
+
+
+.nav-logo h1{
+    width: 112px;
+    height: 38px;
+    color: #111826;
+    font-size: 32px;
+    font-weight: 500;
+    text-align: left;
+    
+}
+
+.nav-links{
+    width: 455px;
+    height: 19px;
+    margin-left: 134.01px;
+}
+
+.nav-links a{
+    text-decoration: none;
+    width: 64px;
+    height: 19px;
+    margin-right: 40px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #4C5D73;
+    text-align: left;
+}
+
+#link-about{
+    width: 75px;
+}
+
+.nav-action{
+    width: 270px;
+    height: 44px;
+    display: inline-flex;
+    align-items: center;
+}
+
+.nav-action a{
+    width: 190px;
+    height: 19px;
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+    color: #304F8C;
+    margin-right: 24px;
+}
+
+.nav-action button{
+    width: 150px;
+    height: 44px;
+    background: transparent;
+    border: 2px solid #304F8C;
+    border-radius: 8px;
+    color: #304F8C;
+    margin-right: 72px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+main{
+    width: 90vw;
+    height: 3243px;
+}
+
+.hero{
+    width: 100vw;
+    height: 521px;
+}
+
+.apresention{
+    width: 95vw;
+    height: 349px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 19px 72px 48px 72px;
+}
+
+.apresention-text{
+    width: 532px;
+    height: 268px;
+    display: flex;
+    flex-direction: column;
+}
+
+.apresention-text h1{
+    width: 532px;
+    height: 112px;
+    margin-bottom: 16px;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 56px;
+    color: #111826;
+}
+
+.apresention-text p{
+    width: 527px;
+    height: 48px;
+    margin-bottom: 32px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #4C5D73;
+}
+
+.apresention-text button{
+    width: 250px;
+    height: 60px;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 25px;
+    background: #304F8C;
+    color: #ffffff;
+}
+
+.apresention-img img{
+   width: 432px;
+   height: 349px;
+
+}
+
+.nav-options{
+   width: 90vw;
+   height: 124px;
+   display: inline-flex;
+   align-items: center;
+   justify-content: center  ;
+   margin-left: 72px;
+   margin-right: 72px;
+   background: #ffffff;
+   border: none;
+   border-radius: 10px;
+}
+
+.options-solucao{
+    display: inline-flex;
+    width: 139px;
+    height: 59px;
+    margin: 32px 96px 33px 87px;
+}
+
+.options-text{
+    width: 71px;
+    height: 51px;
+    display: flex;
+    flex-direction: column;
+}
+
+.options-text h1{
+    width: 68px;
+    height: 30px;
+    font-size: 17px;
+    font-weight: 700;
+    color: #111826;
+    line-height: 30px;
+    margin-left: 9px;
+    margin-bottom: 3px;
+    text-align: left;
+}
+
+.options-text p{
+    width: 71px;
+    height: 30px;
+    font-size: 14px;
+    font-weight: 400;
+    color: #4C5D73;
+    line-height: 30px;
+    margin-left: 9px;
+    text-align: left;
+}
+
+.options-plataforma{
+    display: inline-flex;
+    width: 164px;
+    height: 59px;
+    margin: 32px 96px 33px 87px;
+}
+
+.options-plataforma .options-text{
+    width: 96px;
+    display: flex;
+    flex-direction: column;
+}
+
+.options-plataforma .options-text h1{
+    width: 96px;
+}
+
+.options-plataforma .options-text p{
+    width: 62px;
+}
+
+
+.options-focado{
+    display: inline-flex;
+    width: 190px;
+    height: 59px;
+    margin: 32px 96px 33px 87px;
+}
+
+.options-focado .options-text{
+    width: 122px;
+    display: flex;
+    flex-direction: column;
+}
+
+.options-focado .options-text h1{
+    width: 92px;
+}
+
+.options-focado .options-text p{
+    width: 122px;
+}
+
+.options-seguranca{
+    display: inline-flex;
+    width: 180px;
+    height: 59px;
+    margin: 32px 96px 33px 87px;
+}
+
+.options-seguranca .options-text{
+    width: 112px;
+    display: flex;
+    flex-direction: column;
+}
+
+.options-seguranca .options-text h1{
+    width: 92px;
+}
+
+.options-seguranca .options-text p{
+    width: 112px;
+}
