@@ -275,3 +275,191 @@ main{
 .options-seguranca .options-text p{
     width: 112px;
 }
+
+.service{
+   
+    width: 90vw;
+    height: 424px;
+    margin: 88px 53px 0 72px;
+    display: flex;
+    flex-direction: column;
+}
+
+.text-service{
+    width: 826px;
+    height: 131px;
+    margin-bottom: 48px;
+
+}
+
+.text-service h1{
+    width: 88px;
+    height: 56px;
+    color: #4C5D73;
+    font-size: 16px;
+    line-height: 56px;
+    font-weight: 400;
+}
+
+.text-service h2{
+    width: 826px;
+    height: 80px;
+    color: #111826;
+    font-size: 32px;
+    line-height: 40px;
+    font-weight: 500;
+}
+
+.card-service{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 90vw;
+    height: 208px;
+
+
+}
+
+.box-service{
+    width: 268px;
+    height: 208px;
+    background: #ffffff;
+    margin-right: 21px;
+    border-radius: 10px;
+}
+
+.box-service img{
+    width: 67px;
+    height: 67px;
+    margin: 20px 177px 23px 24px;
+}
+
+.box-service h1{
+    width: 163px;
+    height: 30px;
+    color: #111826;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 30px;
+    margin: 0 81px 8px 24px;
+ 
+}
+
+#estoque{
+    width: 180px;
+}
+
+#fornecedor{
+    width: 210px;
+}
+
+.box-service p{
+    width: 209px;
+    height: 36px;
+    font-size: 14px;
+    font-weight: 400px;
+    line-height: 18px;
+    color: #4C5D73;
+    margin: 0 35px 24px 24px;
+}
+
+#p-estoque{
+    width: 213px;
+}
+
+#p-fornecedor{
+    width: 220px;
+}
+
+.about{
+    width: 90vw;
+    height: 777.27px;
+    display: flex;
+    flex-direction: column  ;
+    margin-left: 72px;
+}
+
+.text-about{
+    width: 586px;
+    height: 91px;
+    margin-bottom: 58.79px;
+}
+
+.text-about h1{
+    width: 101px;
+    height: 56px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #4C5D73;
+    line-height: 56px;
+}
+
+.text-about h2{
+    width: 586px;
+    height: 40px;
+    font-size: 32px;
+    font-weight: 500;
+    color: #111826;
+    line-height: 40px;
+}
+
+.card-about{
+    width: 90vw;
+    height: 751.27px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.box-about{
+    width: 676px;
+    height: 278px;
+    display: flex;
+    flex-direction: column;
+}
+
+.box-about p{
+    width: 676px;
+    height: 48px;
+    font-size: 16px;
+    font-weight: 400px;
+    line-height: 24px;
+    color: #4C5D73;
+    margin-bottom: 32px;
+    display: inline-flex;
+    align-items: center;
+}
+
+.box-about p img{
+    width: 18px;
+    height: 18px;
+    color: #4C5D73;
+    display: inline-flex;
+    align-items: center;
+    margin-left: 3px;
+}
+
+.box-about button{
+    width: 214px;
+    height: 48px;
+    border-color: #304F8C;
+    border-radius: 8px;
+    background: #FFFFFF;
+    color: #304F8C;
+    font-size: 15px;
+    font-weight: 700;
+   
+}
+
+.box-about button img{
+    width: 19px;
+    height: 10px;
+    color: #304F8C;
+}
+
+
+
+
+
+
