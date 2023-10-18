@@ -2,11 +2,11 @@
 
 ## Descrição
 
-O "Clone-Sistok" é a página inicial de um Sistema de Gestão para Empresas que está sendo desenvolvido com foco em Desenvolvimento Front End.
+O "Clone-Sistok" é a página inicial de um Sistema de Gestão para Empresas em desenvolvimento, focado em Desenvolvimento Front End.
 
 ## Objetivo
 
-O objetivo principal deste projeto é implementar uma página inicial usando os conceitos básicos de desenvolvimento Front End, criando uma interface atraente e funcional para um sistema de gestão de empresas.
+O principal objetivo deste projeto é criar uma página inicial atraente e funcional usando os conceitos básicos de desenvolvimento Front End. Essa página faz parte de um sistema de gestão de empresas.
 
 ## Tecnologias Utilizadas
 
@@ -18,15 +18,20 @@ O objetivo principal deste projeto é implementar uma página inicial usando os 
 
 ## Desafios
 
-Durante o desenvolvimento deste projeto, alguns dos desafios superados incluíram:
+Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes desafios:
 
-- Organizar elementos em linhas e colunas de forma eficiente para garantir uma experiência de usuário agradável.
-- Utilizar elementos sobrepostos para criar camadas de design interessantes e envolventes.
+- Organização eficiente de elementos em linhas e colunas, visando proporcionar uma experiência de usuário agradável.
+- Utilização de elementos sobrepostos para criar camadas de design envolventes e interessantes.
 
 ## Interface
 
-Você pode conferir o design da interface no https://www.figma.com/community/file/979892246159607749 para ter uma ideia de como o projeto se parece.
+Você pode conferir o design da interface no [link do Figma](https://www.figma.com/community/file/979892246159607749) para ter uma visão detalhada de como o projeto se parece.
+
+## Deploy
+
+O projeto está disponível em [Clone-Sistok no Vercel](https://sistok-murex.vercel.app/) para visualização.
 
 Seja bem-vindo ao Clone-Sistok, e sinta-se à vontade para contribuir ou entrar em contato conosco!
+
 
 
