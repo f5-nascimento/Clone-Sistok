@@ -458,6 +458,90 @@ main{
     color: #304F8C;
 }
 
+.atuacao{
+    width: 90vw;
+    height: 424px;
+    display: flex;
+    flex-direction: column;
+    margin: 88.6px 53px 0 72px;
+}
+
+.text-atuacao{
+    width: 858px;
+    height: 131px;
+    display: flex;
+    flex-direction: column;
+}
+
+.text-atuacao h1{
+    width: 82px;
+    height: 56px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 56px;
+    color: #4C5D73;
+
+}
+
+.text-atuacao h2{
+    width: 858px;
+    height: 80px;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 40px;
+    color: #111826;
+    
+}
+
+.card-atuacao{
+    width: 90vw;
+    height: 208px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box-atuacao{
+    width: 268px;
+    height: 208px;
+    background: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 10px;
+    margin: 48px 21px 0 0;
+}
+
+.box-atuacao img{
+    width: 105px;
+    height: 105px;
+}
+
+.box-atuacao h1{
+    height: 30px;
+    margin-top: 23px;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 30px;
+    color: #111826;
+}
+
+#bar{
+    width: 50px;
+}
+
+#restaurante{
+    width: 116px;
+}
+
+#mercearia{
+    width: 94px;
+}
+
+#adega{
+    width: 64px;
+}
 
 
 
