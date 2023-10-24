@@ -543,7 +543,89 @@ main{
     width: 64px;
 }
 
+.planos{
+    width: 90vw;
+    height: 454px;
+    display: flex;
+    flex-direction: column;
+    margin: 51px 73px 0 72px;
+}
 
+.planos .text-planos{
+    width: 858px;
+    height: 91px;
+    display: flex;
+    flex-direction: column;
+}
+
+.text-planos h1{
+    width: 70px;
+    height: 56px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 56px;
+    color: #4C5D73;
+}
+
+.text-planos h2{
+    width: 858px;
+    height: 40px;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 40px;
+    color: #111826;
+}
+
+.card-planos{
+    width: 90vw;
+    height: 288px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box-planos{
+    width: 268px;
+    height: 288px;
+    background: #ffffff;
+    border-radius: 10px;
+    margin: 48px 21px 0 0;
+}
+
+.box-planos h1{
+    width: 69px;
+    height: 30px;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #111826;
+    margin: 24px 0 0 24px;
+}
+
+.price-planos{
+    width: 126px;
+    height: 34px;
+    display: inline-flex;
+    margin: 16px 0 0 24px;
+}
+
+.price-planos h2{
+    width: 93px;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 30px;
+    color: #111826;
+    margin-right: 5px;
+}
+
+.price-planos span{
+    width: 29px;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 30px;
+    color: hsl(220, 38%, 11%) 60%;
+    padding-bottom: ;
+}
 
 
 
